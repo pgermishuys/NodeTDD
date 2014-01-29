@@ -1,5 +1,5 @@
-describe('something', function(){
-	it('foo', function(){
+describe('foo', function(){
+	it('bar', function(){
 
 	});
 });
